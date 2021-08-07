@@ -7,7 +7,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-				<Page id="page" title="Modificato sul branch">
+				<Page id="page" title="Nuovo sul branch">
 					<content />
 				</Page>
 			</pages>
